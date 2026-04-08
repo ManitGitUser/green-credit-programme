@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="wgTIeno7ZOA_MIESfSJk">
+    <mxGraphModel dx="1148" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-26" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="1) COMPANY&#39;S PORTAL&#xa;(Landing Page)" vertex="1">
+          <mxGeometry height="320" width="240" x="250" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-27" parent="N2MPm_zHVPNyIqW8cVZj-26" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Company Name &amp; ID" vertex="1">
+          <mxGeometry height="40" width="200" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-28" parent="N2MPm_zHVPNyIqW8cVZj-26" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Total Area Allocated" vertex="1">
+          <mxGeometry height="40" width="200" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-29" parent="N2MPm_zHVPNyIqW8cVZj-26" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Alerts: Underperforming Areas" vertex="1">
+          <mxGeometry height="40" width="200" x="20" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-30" parent="N2MPm_zHVPNyIqW8cVZj-26" style="shape=list;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Land Details List&#xa;(Clickable Map Links)" vertex="1">
+          <mxGeometry height="100" width="200" x="20" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-31" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="2) LAND ALLOCATION PORTAL" vertex="1">
+          <mxGeometry height="320" width="240" x="530" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-32" parent="N2MPm_zHVPNyIqW8cVZj-31" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Available vs Allocated Land&#xa;(ID, Area, Location)" vertex="1">
+          <mxGeometry height="50" width="200" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-33" parent="N2MPm_zHVPNyIqW8cVZj-31" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Locked Land&#xa;(Under Review)" vertex="1">
+          <mxGeometry height="50" width="200" x="20" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-34" parent="N2MPm_zHVPNyIqW8cVZj-31" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn-icons-png.flaticon.com/512/854/854878.png;" value="Google Maps Integration&#xa;(Visual Land Selection)" vertex="1">
+          <mxGeometry height="50" width="50" x="95" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-35" parent="N2MPm_zHVPNyIqW8cVZj-31" style="shadow=0;dashed=0;align=center;html=1;strokeWidth=1;shape=mxgraph.bootstrap.button;fillColor=#0085af;fontColor=#ffffff;" value="Apply Button" vertex="1">
+          <mxGeometry height="30" width="120" x="60" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-36" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" value="3) AI ANALYTICS PORTAL" vertex="1">
+          <mxGeometry height="320" width="240" x="810" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-37" parent="N2MPm_zHVPNyIqW8cVZj-36" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Current Status:&#xa;Canopy Density / Forest Cover" vertex="1">
+          <mxGeometry height="50" width="200" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-38" parent="N2MPm_zHVPNyIqW8cVZj-36" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Predictions:&#xa;Growth Timeline&#xa;Soil Recovery Scores" vertex="1">
+          <mxGeometry height="60" width="200" x="20" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-39" parent="N2MPm_zHVPNyIqW8cVZj-36" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Expected Restoration Time" vertex="1">
+          <mxGeometry height="40" width="200" x="20" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-40" parent="N2MPm_zHVPNyIqW8cVZj-36" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;" value="Restoration Tips &amp; Insights" vertex="1">
+          <mxGeometry height="70" width="140" x="50" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-41" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" value="4) CREDITS DASHBOARD" vertex="1">
+          <mxGeometry height="320" width="240" x="1090" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-42" parent="N2MPm_zHVPNyIqW8cVZj-41" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;align=left;spacingLeft=10;" value="Credits Summary:&#xa;- Total Earned&#xa;- Available to Redeem&#xa;- Redeemed&#xa;- Pending" vertex="1">
+          <mxGeometry height="100" width="200" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-43" parent="N2MPm_zHVPNyIqW8cVZj-41" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Exchange Options&#xa;(Government Schemes)" vertex="1">
+          <mxGeometry height="60" width="200" x="20" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-44" parent="N2MPm_zHVPNyIqW8cVZj-41" style="shadow=0;dashed=0;align=center;html=1;strokeWidth=1;shape=mxgraph.bootstrap.button;fillColor=#d79b00;fontColor=#ffffff;" value="Redeem / Exchange" vertex="1">
+          <mxGeometry height="40" width="150" x="45" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-45" edge="1" parent="1" source="N2MPm_zHVPNyIqW8cVZj-26" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" target="N2MPm_zHVPNyIqW8cVZj-31" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-46" edge="1" parent="1" source="N2MPm_zHVPNyIqW8cVZj-31" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" target="N2MPm_zHVPNyIqW8cVZj-36" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-47" edge="1" parent="1" source="N2MPm_zHVPNyIqW8cVZj-36" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" target="N2MPm_zHVPNyIqW8cVZj-41" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;fontColor=#ffffff;" value="Global Navigation: Home | Land Allocation | AI Analytics | Credits" vertex="1">
+          <mxGeometry height="40" width="1080" x="250" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="API Gateway" vertex="1">
+          <mxGeometry height="60" width="160" x="730" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="Backend Service&#xa;(Data Aggregator &amp; Mapper)" vertex="1">
+          <mxGeometry height="100" width="240" x="690" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-51" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Ministry of Environment&#xa;(Data Source)" vertex="1">
+          <mxGeometry height="80" width="150" x="450" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-52" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Ministry of Land&#xa;(Data Source)" vertex="1">
+          <mxGeometry height="80" width="150" x="450" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-53" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Ministry of Forestry&#xa;(Data Source)" vertex="1">
+          <mxGeometry height="80" width="150" x="450" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-54" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Ministry Data&#xa;Cache DB" vertex="1">
+          <mxGeometry height="100" width="80" x="650" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-55" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Map Grid DB&#xa;(Deforested Lands)" vertex="1">
+          <mxGeometry height="100" width="80" x="770" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-56" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Green Credit&#xa;Allocation DB" vertex="1">
+          <mxGeometry height="100" width="80" x="890" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" value="Data Mapping &amp; Grid Alignment Logic" vertex="1">
+          <mxGeometry height="30" width="200" x="710" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-58" edge="1" parent="1" source="N2MPm_zHVPNyIqW8cVZj-49" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" target="N2MPm_zHVPNyIqW8cVZj-50" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-59" edge="1" parent="1" source="N2MPm_zHVPNyIqW8cVZj-51" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;rounded=0;" target="N2MPm_zHVPNyIqW8cVZj-50" value="Fetch Data">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-60" edge="1" parent="1" source="N2MPm_zHVPNyIqW8cVZj-52" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.88;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;rounded=0;" target="N2MPm_zHVPNyIqW8cVZj-50" value="Fetch Data">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-61" edge="1" parent="1" source="N2MPm_zHVPNyIqW8cVZj-53" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;rounded=0;" target="N2MPm_zHVPNyIqW8cVZj-50" value="Fetch Data">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-62" edge="1" parent="1" source="N2MPm_zHVPNyIqW8cVZj-50" style="endArrow=classic;startArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;" target="N2MPm_zHVPNyIqW8cVZj-54" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-63" edge="1" parent="1" source="N2MPm_zHVPNyIqW8cVZj-50" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;" target="N2MPm_zHVPNyIqW8cVZj-55" value="Map to Grid">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-64" edge="1" parent="1" source="N2MPm_zHVPNyIqW8cVZj-50" style="endArrow=classic;startArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;" target="N2MPm_zHVPNyIqW8cVZj-56" value="Allocate Credit">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N2MPm_zHVPNyIqW8cVZj-65" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=11;" value="Unified Map Grid:&#xa;Combines multi-ministry data&#xa;to identify deforested land&#xa;available for plantation." vertex="1">
+          <mxGeometry height="80" width="180" x="950" y="780" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
